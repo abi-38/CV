@@ -4,6 +4,19 @@ body {
 h1, h2, h3, h4 {
     color: #9D191A;
 }
-header {
-    flex-direction: wrap;
+.premiere-session {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+ul {
+    list-style-type: none;
+}
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+h2, #paragraphe {
+    text-align: center;
 }
