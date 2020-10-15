@@ -66,3 +66,8 @@ section article {
     padding-left: 100px;
     padding-right: 100px;
 }
+em {
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+}
