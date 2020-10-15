@@ -16,7 +16,50 @@ section {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    padding-left: 25px;
+    padding-right: 25px;
 }
-h2, #paragraphe {
+section article {
+    width: 50%;
+}
+#expériences {
+    text-align: right;
+    padding: 30px;
+}
+#formations {
+    text-align: left;
+    padding: 30px;
+}
+.puce {
+    padding-left: 0px;
+}
+#paragraphe {
     text-align: center;
+    padding: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-bottom: 2px solid #9D191A;
+}
+#competence {
+    text-align: center;
+}
+#skills {
+    text-align: right;
+    padding: 30px;
+    padding-top: 0px;
+}
+#dévelopement {
+    text-align: left;
+    padding: 30px;
+}
+#footer {
+    text-align: center;
+}
+#loisirs {
+    display: flex;
+}
+#loisirs li {
+    padding-inline-start: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
