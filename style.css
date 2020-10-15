@@ -4,6 +4,9 @@ body {
 h1, h2, h3, h4 {
     color: #9D191A;
 }
+h1 {
+    padding-top: 70px;
+}
 .premiere-session {
     display: flex;
     flex-direction: row;
