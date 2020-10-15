@@ -15,6 +15,10 @@ h1 {
 ul {
     list-style-type: none;
 }
+header section img {
+    height: 200px;
+    width: auto;
+}
 section {
     display: flex;
     flex-direction: row;
