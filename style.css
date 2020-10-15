@@ -75,3 +75,6 @@ em {
     font-style: normal;
     font-weight: bold;
 }
+aside, footer {
+    border-top: 2px solid #9D191A;
+}
